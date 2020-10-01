@@ -1,0 +1,218 @@
+[
+    {
+        "index": 1,
+        "gender": "FEMALE",
+        "firstname": "Becky",
+        "lastname": "HOLMES",
+        "email": "becky.holmes@example.com",
+        "score": "DD",
+        "group": "C"
+    },
+    {
+        "index": 2,
+        "gender": "FEMALE",
+        "firstname": "Signe",
+        "lastname": "OLSEN",
+        "email": "signe.olsen@example.com",
+        "score": "CA",
+        "group": "A"
+    },
+    {
+        "index": 3,
+        "gender": "FEMALE",
+        "firstname": "\u0639\u0633\u0644",
+        "lastname": "\u0645\u0631\u0627\u062f\u06cc",
+        "email": "\u0639\u0633\u0644.\u0645\u0631\u0627\u062f\u06cc@example.com",
+        "score": "DC",
+        "group": "B"
+    },
+    {
+        "index": 4,
+        "gender": "MALE",
+        "firstname": "Necati",
+        "lastname": "NALBANTO\u011fLU",
+        "email": "necati.nalbanto\u011flu@example.com",
+        "score": "CB",
+        "group": "B"
+    },
+    {
+        "index": 5,
+        "gender": "FEMALE",
+        "firstname": "Nanna",
+        "lastname": "PEDERSEN",
+        "email": "nanna.pedersen@example.com",
+        "score": "CD",
+        "group": "C"
+    },
+    {
+        "index": 6,
+        "gender": "MALE",
+        "firstname": "Valtteri",
+        "lastname": "MIKKOLA",
+        "email": "valtteri.mikkola@example.com",
+        "score": "BC",
+        "group": "C"
+    },
+    {
+        "index": 7,
+        "gender": "FEMALE",
+        "firstname": "Rachel",
+        "lastname": "LAMBERT",
+        "email": "rachel.lambert@example.com",
+        "score": "BB",
+        "group": "B"
+    },
+    {
+        "index": 8,
+        "gender": "FEMALE",
+        "firstname": "Serena",
+        "lastname": "MORAES",
+        "email": "serena.moraes@example.com",
+        "score": "DC",
+        "group": "C"
+    },
+    {
+        "index": 9,
+        "gender": "FEMALE",
+        "firstname": "Summer",
+        "lastname": "WOOD",
+        "email": "summer.wood@example.com",
+        "score": "DC",
+        "group": "C"
+    },
+    {
+        "index": 10,
+        "gender": "FEMALE",
+        "firstname": "Julie",
+        "lastname": "COLE",
+        "email": "julie.cole@example.com",
+        "score": "BC",
+        "group": "B"
+    },
+    {
+        "index": 11,
+        "gender": "FEMALE",
+        "firstname": "Julia",
+        "lastname": "CANO",
+        "email": "julia.cano@example.com",
+        "score": "CC",
+        "group": "C"
+    },
+    {
+        "index": 12,
+        "gender": "FEMALE",
+        "firstname": "Andrea",
+        "lastname": "HERNANDEZ",
+        "email": "andrea.hernandez@example.com",
+        "score": "CC",
+        "group": "A"
+    },
+    {
+        "index": 13,
+        "gender": "MALE",
+        "firstname": "Eduardo",
+        "lastname": "VAN DE WOESTIJNE",
+        "email": "eduardo.vande woestijne@example.com",
+        "score": "CD",
+        "group": "C"
+    },
+    {
+        "index": 14,
+        "gender": "FEMALE",
+        "firstname": "Alma",
+        "lastname": "THOMSEN",
+        "email": "alma.thomsen@example.com",
+        "score": "BB",
+        "group": "C"
+    },
+    {
+        "index": 15,
+        "gender": "FEMALE",
+        "firstname": "Tammy",
+        "lastname": "HAYES",
+        "email": "tammy.hayes@example.com",
+        "score": "CC",
+        "group": "C"
+    },
+    {
+        "index": 16,
+        "gender": "MALE",
+        "firstname": "Arnaud",
+        "lastname": "LO",
+        "email": "arnaud.lo@example.com",
+        "score": "CC",
+        "group": "B"
+    },
+    {
+        "index": 17,
+        "gender": "FEMALE",
+        "firstname": "Judith",
+        "lastname": "SCHMITZ",
+        "email": "judith.schmitz@example.com",
+        "score": "BC",
+        "group": "C"
+    },
+    {
+        "index": 18,
+        "gender": "MALE",
+        "firstname": "Hector",
+        "lastname": "GUERRERO",
+        "email": "hector.guerrero@example.com",
+        "score": "FF",
+        "group": "B"
+    },
+    {
+        "index": 19,
+        "gender": "FEMALE",
+        "firstname": "Amy",
+        "lastname": "MILLER",
+        "email": "amy.miller@example.com",
+        "score": "CA",
+        "group": "A"
+    },
+    {
+        "index": 20,
+        "gender": "FEMALE",
+        "firstname": "Alysha",
+        "lastname": "VAN DE WESTELAKEN",
+        "email": "alysha.vande westelaken@example.com",
+        "score": "FF",
+        "group": "C"
+    },
+    {
+        "index": 21,
+        "gender": "MALE",
+        "firstname": "\u00f6zkan",
+        "lastname": "TEKELIO\u011fLU",
+        "email": "\u00f6zkan.tekelio\u011flu@example.com",
+        "score": "DD",
+        "group": "C"
+    },
+    {
+        "index": 22,
+        "gender": "FEMALE",
+        "firstname": "Sol\u00e8ne",
+        "lastname": "LEMAIRE",
+        "email": "sol\u00e8ne.lemaire@example.com",
+        "score": "CA",
+        "group": "C"
+    },
+    {
+        "index": 23,
+        "gender": "MALE",
+        "firstname": "Arlo",
+        "lastname": "JACKSON",
+        "email": "arlo.jackson@example.com",
+        "score": "FF",
+        "group": "B"
+    },
+    {
+        "index": 24,
+        "gender": "FEMALE",
+        "firstname": "Jeanne",
+        "lastname": "NELSON",
+        "email": "jeanne.nelson@example.com",
+        "score": "FF",
+        "group": "B"
+    }
+]
